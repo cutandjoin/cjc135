@@ -1,5 +1,5 @@
 REM DIRINDEX 1\2\4\18,1\2\4\19,1\2\5\20,1\2\5\21,1\2\6\22,1\2\6\23,1\2\7\24,1\2\8\25,1\2\9\26,1\2\10\27,1\2\10\28,1\3\11\29,1\3\11\30,1\3\11\31,1\3\11\32,1\3\12\33,1\3\12\34,1\3\12\35,1\3\12\36,1\3\13\37,1\3\13\38,1\3\13\39,1\3\13\40,1\3\14\41,1\3\14\42,1\3\15\43,1\3\15\44,1\3\16\45,1\3\16\46,1\3\17\47,1\3\17\48,1\3\17\49,1\3\17\50
-REM DIRNAME cjc135,folder01,folder02,folder03,folder04,folder05,folder06,folder07,folder08,folder09,folder10,folder11,folder12,folder13,folder14,folder15,folder16,folder17,folder18,folder19,folder20,folder21,folder22,folder23,folder24,folder25,folder26,folder27,folder28,folder29,folder30,folder31,folder32,folder33,folder34,folder35,folder36,folder37,folder38,folder39,folder40,folder41,folder42,folder43,folder44,folder45,folder46,folder47,folder48,folder49
+REM DIRNAME folder01,folder02,folder03,folder04,folder05,folder06,folder07,folder08,folder09,folder10,folder11,folder12,folder13,folder14,folder15,folder16,folder17,folder18,folder19,folder20,folder21,folder22,folder23,folder24,folder25,folder26,folder27,folder28,folder29,folder30,folder31,folder32,folder33,folder34,folder35,folder36,folder37,folder38,folder39,folder40,folder41,folder42,folder43,folder44,folder45,folder46,folder47,folder48,folder49,folder50
 TITLE ""
 FILE "04.mp3" MP3
   TRACK 01 AUDIO
